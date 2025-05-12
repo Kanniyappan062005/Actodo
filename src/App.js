@@ -10,8 +10,8 @@ function App() {
   const [usersArr, setUsersArr] = useState(
     [
       {
-        uName: "",
-        uPassword: ""
+        uName: "Kanni",
+        uPassword: "123"
       }
     ]);
 

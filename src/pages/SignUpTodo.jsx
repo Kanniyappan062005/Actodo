@@ -46,7 +46,7 @@ function SignUpTodo(props) {
                         value={eUserPass}
                         className="border border-black rounded p-2 bg-transparent focus:outline-none "
                     />
-                    <input type="text"
+                    <input type="password"
                         placeholder="Confirm Password"
                         className="border border-black rounded p-2 bg-transparent focus:outline-none "
                     />

@@ -46,7 +46,7 @@ function LoginTodo(props) {
                 <h1 className="font-medium text-2xl">Hello you!</h1>
 
                 {
-                    rUser ? <p className="text-[14px] md:text-[16px]">I help you manage your activities after you login:)</p> : <p className="text-red-700">Please Sign Up before you Login!!</p>
+                    rUser ? <p className="text-[14px] md:text-[16px] ">I help you manage your activities after you login:)</p> : <p className="text-red-700">Please Sign Up before you Login!!</p>
                 }
 
                 <h1 className="text-xl text-center my-5">Login</h1>
